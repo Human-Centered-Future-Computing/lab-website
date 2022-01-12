@@ -29,8 +29,8 @@ content:
 #   columns: '1'
 ---
 
-You can contact us on our emails:
+You can contact any of the PIs on our emails:
 
-- Swaroop Joshi (swaroopj@goa.bits-pilani.ac.in)
 - Sougata Sen (sougatas@goa.bits-pilani.ac.in)
 - Sravan Danda (dandas@goa.bits-pilani.ac.in)
+- Swaroop Joshi (swaroopj@goa.bits-pilani.ac.in)
