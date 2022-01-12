@@ -11,12 +11,12 @@ authors:
 - swaroop
   
 # Role/position
-role: Assistant Professor
+role: Principal Investigator 
 
 # Organizations/Affiliations
 organizations:
-- name: CS&IS, BITS Pilani, Goa
-  url: "//swaroopjoshi.in"
+- name: Assistant Professor, CSIS, BITS Pilani, Goa
+  url: "//bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include accessibility and computing education.
@@ -43,12 +43,16 @@ bio: My research interests include accessibility and computing education.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: globe
+  icon_pack: fas
+  link: '//swaroopjoshi.in'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:swaroopj@goa.bits-pilani.ac.in'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=iibndPYAAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,6 +71,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Researcher, Educator, Developer interested in a range of topics in Computing Education, Software Engineering, and the intersection of the two.
+I am a Researcher, Educator, Developer working on a range of topics in Computing Education, Software Engineering, and the intersection of the two.
+My research interests include **accessibility** and computing education.
 
 For more details, visit [my website](https://swaroopjoshi.in).
