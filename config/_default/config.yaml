@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
+title: Human-Centered Future Computing # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Human-Centered Future Computing Lab' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -25,7 +25,7 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
   hugoVersion:
-    min: '0.84.1'
+    min: '0.89.4'
     extended: true
 
 ############################

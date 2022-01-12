@@ -1,8 +1,8 @@
 ---
 title: "An example journal article"
 authors:
-- admin
-- Robert Ford
+- Kishor Kumar
+- Asha Bhosale # You can name an authors like this even if they don't have a profile on the site
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
