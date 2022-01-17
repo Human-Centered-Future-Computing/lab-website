@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: BITS-Pilani K K Birla Goa Campus
-  url: ""
+  url: "https://www.bits-pilani.ac.in/goa/dandas/profile"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Mathematical Morphology, Combinatorial Optimization and Deep Learning.
@@ -64,6 +64,4 @@ user_groups:
 
 ---
 
-#吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable #matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut #sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sravan Danda is an Assistant Professor at Computer Science and Informations Systems (CSIS) at BITS-Pilani, Goa from September 2020. Prior to joining BITS-Pilani, Goa, he was a visitor at Systems Science and Informatics Unit (SSIU), Indian Statistical Institute (ISI), Bangalore from October 2019. During this period, he worked on developing algorithms for hyperspectral band selection using Mathematical Morphology (MM), a sub-area of Image Processing. He received his PhD in Computer Science from the same lab, SSIU, ISI-Bangalore in October 2019. In his PhD thesis, he established that, faster and efficient algorithms for image segmentation and filtering can be obtained by exploiting the contrast-invariance nature of its solutions. This was done by using power watershed framework from MM. Before joining the PhD program in 2013, he worked as a Business Analyst at Genpact, Retail Chain Analytics domain, Bangalore from October 2011 - September 2013. At Genpact, he was responsible for providing recommendations such as product pricing and stocking based on the behaviour of shoppers, backed up with statistical analyses on point-of-sale data. Prior to this, he received his B.Math.(Hons.) degree in Mathematics and M.Stat. degree in Mathematical Statistics and Probability from ISI, in 2009 and 2011 respectively. 
