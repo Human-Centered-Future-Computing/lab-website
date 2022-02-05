@@ -39,9 +39,9 @@ links:
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-url_slides: 'https://surjya-ghosh.github.io/Surjya_Ghosh_files/presentations/COMSNETS_2022_presentation.pdf'
-#url_source: '#'
-url_video: 'https://surjya-ghosh.github.io/Surjya_Ghosh_files/talks/COMSNETS_2022_talk.mp4'
+url_slides: './COMSNETS_2022_presentation.pdf'
+url_source: '#'
+url_video: './COMSNETS_2022_talk.mp4' 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
