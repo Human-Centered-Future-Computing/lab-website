@@ -1,5 +1,5 @@
 ---
-title: "ActiSight: Wearer Foreground Extraction using a Practical RGB-Thermal Wearable"
+title: "Impacts of Image Obfuscation on Fine-grained Activity Recognition in Egocentric Video"
 authors:
 - Soroush Shahi
 - Rawan Alharbi
