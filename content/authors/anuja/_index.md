@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Sougata Sen
+title: Anuja Pinge
 
 # Username (this should match the folder name)
 authors:
-- sougata
+- anuja
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Principal Investigator
+role: Grad Students
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,7 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Mobile and Wearable Sensing
-- Internet of Things
-- Ubiquitous Computing
+- mHealth
 
 # education:
 #   courses:
@@ -42,18 +40,15 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: globe
-  icon_pack: fas
-  link: 'http://sougata-sen.com'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sougatas@goa.bits-pilani.ac.in'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/SougataSen_
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.in/citations?hl=en&user=IEy_zGEAAAAJ
+  link: 'mailto:p20200052@goa.bits-pilani.ac.in'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/SougataSen_
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.in/citations?hl=en&user=IEy_zGEAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
@@ -69,6 +64,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Grad Students
 
 ---
