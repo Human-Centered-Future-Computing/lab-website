@@ -38,7 +38,7 @@ publication: "* IEEE Journal of Selected Topics in Applied Earth Observations an
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2107.07827
+url_pdf: https://ieeexplore.ieee.org/document/9740438
 url_code: ''
 url_dataset: ''
 url_poster: ''
